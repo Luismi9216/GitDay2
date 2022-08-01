@@ -19,4 +19,9 @@ public class DemoTest {
 	}
 	private int teamNum;
 	
+	public String void add(String name, int num){
+	
+	}
+	
+	
 }
